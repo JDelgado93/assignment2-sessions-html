@@ -1,14 +1,31 @@
 body{
-	width: 100%;
-	background-color: red;
+	width: 96%;
+	background-color: grey;
 	margin: 0 auto;
 	border: 1px solid #666;
+
+	font-size:100%;
+	line-height:1.5;
+	font-family:sans-serif;
 	}
+h1{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
 .track{
 		width: 100%;
-		background-color: green;
+		background-color: cyan;
 		padding: 10% 20%;
 	}
+.session{
+		background-color: lightblue;
+}
+.session h4{
+	font-family: 'Gabriela', serif;
+}
+
 
 	/* apply a natural box layout model to all elements */
 *, *:before, *:after {
