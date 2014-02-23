@@ -10,6 +10,9 @@ body{
 	}
 h1{
 	text-align: center;
+	text-decoration: underline;
+	font-family: 'Frijole', cursive;
+
 }
 h3{
 	text-align: center;
@@ -25,6 +28,7 @@ h3{
 .session h4{
 	font-family: 'Gabriela', serif;
 }
+
 
 
 	/* apply a natural box layout model to all elements */
