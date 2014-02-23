@@ -14,17 +14,22 @@ h1{
 	font-family: 'Frijole', cursive;
 
 }
+h2 {
+	text-decoration: underline;
+	text-align: center;
+}
 h3{
 	text-align: center;
 }
 .track{
 		width: 100%;
-		background-color: cyan;
+		background-color: #FF888C;
 		padding: 10% 20%;
 	}
 .session{
-		background-color: lightblue;
+		background-color: lightblue;		
 }
+
 .session h4{
 	font-family: 'Gabriela', serif;
 }
